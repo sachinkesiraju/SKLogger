@@ -1,0 +1,2 @@
+$ cat .gitattributes
+*.h linguist-language=Objective-C
